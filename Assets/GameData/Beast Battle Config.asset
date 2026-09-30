@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccecf02865747941a758a233a5d8ff6, type: 3}
+  m_Name: Beast Battle Config
+  m_EditorClassIdentifier: 
+  hpMultipliers:
+  - 0
+  - 1
+  - 3.5
+  - 10
+  dmgMultipliers:
+  - 0
+  - 1
+  - 2.5
+  - 6
+  splashRadiusByStar:
+  - 0
+  - 0
+  - 0.5
+  - 1.5
+  tankerOffset: 1.5
+  assassinOffset: 0.5
+  rangerOffset: -1
+  mageOffset: -1.5
+  bossHpMultiplier: 8
+  bossDamageMultiplier: 2
+  energySkills:
+  - type: 0
+    skill: {fileID: 11400000, guid: 9e9ac090e9184944185b8e83f4eba1ec, type: 2}
+  - type: 1
+    skill: {fileID: 11400000, guid: 9e9ac090e9184944185b8e83f4eba1ec, type: 2}
+  - type: 2
+    skill: {fileID: 11400000, guid: 9e9ac090e9184944185b8e83f4eba1ec, type: 2}
+  - type: 3
+    skill: {fileID: 11400000, guid: 9e9ac090e9184944185b8e83f4eba1ec, type: 2}

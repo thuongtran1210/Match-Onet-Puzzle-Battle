@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05ea602af2c72748ab6d85c06a7f403, type: 3}
+  m_Name: "M\xE8o M\u01B0\u1EDBp H\u01B0\u1EDBng N\u1ED9i"
+  m_EditorClassIdentifier: 
+  beastId: meoMuopHuongNoi
+  element: 2
+  role: 0
+  displayName: "M\xE8o M\u01B0\u1EDBp H\u01B0\u1EDBng N\u1ED9i"
+  uiIcon: {fileID: -1701245437, guid: b2170ea39dbd7e04380d9705a00f82bd, type: 3}
+  uiColor: {r: 1, g: 1, b: 1, a: 1}
+  attackBehavior: {fileID: 11400000, guid: 5d14568ca57ebfa489056d1f4d2b4747, type: 2}
+  gridPrefab: {fileID: 5970538194921782560, guid: 9769c13eec2786a44a48543a5588e068, type: 3}
+  battlePrefab: {fileID: 6937362410627617792, guid: 3c92fe25dbd9c7b48b4a1ffd15f824b4, type: 3}
+  baseHp: 1000
+  baseDamage: 40
+  moveSpeed: 2
+  attackRange: 1
+  attackCooldown: 1

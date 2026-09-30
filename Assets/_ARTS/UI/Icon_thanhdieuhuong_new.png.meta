@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 7f4c0207c1ac2fd46b4c56545c18c1a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 600
+        width: 239
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ec630f24892841a1fd48c1a20209b
+      internalID: -1676647159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 594
+        width: 228
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5970b5a5ad2ba4198c978401e380d1
+      internalID: 941692352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 600
+        width: 198
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08848b7479303fd4abe5faa0a821e1be
+      internalID: -2045380905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 600
+        width: 240
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed401fd85e389804883ba0c1b2eae48b
+      internalID: -1121568600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_4
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 588
+        width: 220
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f672f3afbea040a941738a453d167
+      internalID: 1667593834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 174
+        width: 240
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a29549e71350cc42a55f2a5aa6c90f4
+      internalID: -1380476073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 174
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97483f7466312b04298b7ee76edb103d
+      internalID: -1022892009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 174
+        width: 252
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe131d8adc8cf24a88677156baf89d3
+      internalID: -1868981545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_25
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 174
+        width: 254
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f860378004aa5448a10f43aae53d1d
+      internalID: 1329480984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_thanhdieuhuong_new_26
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 174
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307fc752ae6fb94c8e9979d6cd23ddb
+      internalID: -820193678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_thanhdieuhuong_new_0: -1676647159
+      Icon_thanhdieuhuong_new_1: 941692352
+      Icon_thanhdieuhuong_new_10: 870893715
+      Icon_thanhdieuhuong_new_11: -633829000
+      Icon_thanhdieuhuong_new_12: -1150840124
+      Icon_thanhdieuhuong_new_13: -2146806745
+      Icon_thanhdieuhuong_new_14: 2006553269
+      Icon_thanhdieuhuong_new_15: 2045805691
+      Icon_thanhdieuhuong_new_16: -338554876
+      Icon_thanhdieuhuong_new_17: 690688070
+      Icon_thanhdieuhuong_new_18: 1211051090
+      Icon_thanhdieuhuong_new_19: -1053016585
+      Icon_thanhdieuhuong_new_2: -2045380905
+      Icon_thanhdieuhuong_new_20: -1656667964
+      Icon_thanhdieuhuong_new_21: -1709678566
+      Icon_thanhdieuhuong_new_22: -1380476073
+      Icon_thanhdieuhuong_new_23: -1022892009
+      Icon_thanhdieuhuong_new_24: -1868981545
+      Icon_thanhdieuhuong_new_25: 1329480984
+      Icon_thanhdieuhuong_new_26: -820193678
+      Icon_thanhdieuhuong_new_3: -1121568600
+      Icon_thanhdieuhuong_new_4: 1667593834
+      Icon_thanhdieuhuong_new_5: 1604946896
+      Icon_thanhdieuhuong_new_6: 1133754571
+      Icon_thanhdieuhuong_new_7: 1799954216
+      Icon_thanhdieuhuong_new_8: 1776015124
+      Icon_thanhdieuhuong_new_9: 1738259692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83547c3ca232a3a419516c8af01e0d2d, type: 3}
+  m_Name: Energy_Slow
+  m_EditorClassIdentifier: 
+  energyId: e_slow
+  type: 3
+  displayName: Slow
+  uiIcon: {fileID: 491996120, guid: 638900fb4467e3646b4214b975efdce3, type: 3}
+  uiColor: {r: 1, g: 1, b: 1, a: 1}
+  baseEffectValue: 0.5
+  duration: 0.8
+  gridPrefab: {fileID: 3767126336023299787, guid: 4e68cca45a2eb4b4082a484a7baba1d0, type: 3}
+  grantedSkill: {fileID: 11400000, guid: fe3b8fd012276544f922eb4c0847d000, type: 2}

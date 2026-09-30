@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05ea602af2c72748ab6d85c06a7f403, type: 3}
+  m_Name: "L\u1EE3n Nh\u1EF1a Ti\u1EBFt Ki\u1EC7m"
+  m_EditorClassIdentifier: 
+  beastId: lonNhuaTietKiem
+  element: 2
+  role: 2
+  displayName: "L\u1EE3n Nh\u1EF1a Ti\u1EBFt Ki\u1EC7m"
+  uiIcon: {fileID: 1137923138, guid: b2170ea39dbd7e04380d9705a00f82bd, type: 3}
+  uiColor: {r: 1, g: 1, b: 1, a: 1}
+  attackBehavior: {fileID: 11400000, guid: 1f833c5295095644d929ab106e5eb9ee, type: 2}
+  gridPrefab: {fileID: 2961506811689664930, guid: 4937ead656422a64ab18ca45aba1fe4b, type: 3}
+  battlePrefab: {fileID: 8718591399447838928, guid: d63fe58426d96ed4cba8b4034dcdced4, type: 3}
+  baseHp: 450
+  baseDamage: 70
+  moveSpeed: 2
+  attackRange: 3
+  attackCooldown: 1
+  autoCastSkill: {fileID: 0}
+  maxMana: 100

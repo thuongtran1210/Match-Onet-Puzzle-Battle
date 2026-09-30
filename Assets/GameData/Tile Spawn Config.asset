@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8181a621a8fb79541b78c96663a2e592, type: 3}
+  m_Name: Tile Spawn Config
+  m_EditorClassIdentifier: 
+  beastWeight: 0.7
+  energyWeight: 0.3
+  beasts:
+  - definition: {fileID: 11400000, guid: bffc3cc6725fc114b81dc52e8662bf90, type: 2}
+    weight: 0.4
+  - definition: {fileID: 11400000, guid: 13b26121cb497ba44aae137534e2d6fd, type: 2}
+    weight: 0.4
+  - definition: {fileID: 11400000, guid: be4e0a2f3f4a1ba418251b8329dcbc82, type: 2}
+    weight: 0.4
+  - definition: {fileID: 11400000, guid: 8cfe0ef99bc941942ad4f8478168237e, type: 2}
+    weight: 0.4
+  energies:
+  - type: 1
+    weight: 0.2
+  - type: 0
+    weight: 0.4
+  - type: 3
+    weight: 0.4

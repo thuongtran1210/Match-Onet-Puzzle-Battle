@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8cbd35e8cd583e488389aa4fb7456d3, type: 3}
+  m_Name: Energy Config
+  m_EditorClassIdentifier: 
+  energyPerMatch: 10
+  energyLimits:
+  - definition: {fileID: 11400000, guid: 55b459452159dd347b68be670b99e046, type: 2}
+    maxEnergy: 20
+  - definition: {fileID: 11400000, guid: 0077af13eca2f3041a06f17be40124b1, type: 2}
+    maxEnergy: 20
+  - definition: {fileID: 11400000, guid: 4ba70b8a4f80c594cb454355624e48fd, type: 2}
+    maxEnergy: 20
+  - definition: {fileID: 11400000, guid: ce050cb58d842224cbe22d78dc33b882, type: 2}
+    maxEnergy: 20
+  - definition: {fileID: 11400000, guid: b598f2a815817174a92da1d4a05ed92e, type: 2}
+    maxEnergy: 20

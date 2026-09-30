@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2e02d8d463ab514cb5047f85ad8c764, type: 3}
+  m_Name: MainEnergyUIConfig
+  m_EditorClassIdentifier: 
+  visuals:
+  - type: 0
+    barColor: {r: 1, g: 0.56296873, b: 0, a: 0}
+    icon: {fileID: 0}
+  - type: 1
+    barColor: {r: 0.07492043, g: 0.6226415, b: 0, a: 0}
+    icon: {fileID: 0}
+  - type: 2
+    barColor: {r: 1, g: 0.92679787, b: 0.26981127, a: 0}
+    icon: {fileID: 0}
+  - type: 3
+    barColor: {r: 0.5320754, g: 0.18173428, b: 0, a: 0}
+    icon: {fileID: 0}
+  - type: 4
+    barColor: {r: 0.5816021, g: 1, b: 0.3754716, a: 0}
+    icon: {fileID: 0}
